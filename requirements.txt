@@ -1,0 +1,14 @@
+tensorflow>=2.10.0
+numpy
+matplotlib
+opencv-python
+scikit-learn
+streamlit
+Pillow
+scikit-image
+xgboost<3.0.0
+shap
+pandas
+SimpleITK
+scipy
+seaborn
